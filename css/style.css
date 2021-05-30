@@ -1,0 +1,52 @@
+#orange {
+    background-color: orange;
+}
+
+.center {
+    text-align: center;
+}
+
+#logobg{
+    background-color: white;
+}
+
+#menu-text{
+    color: white;
+    font-size: 35px;
+}
+
+#inputumuz {
+    width: 850px;
+    height: 50px;
+}
+
+#butonumuz{
+    height: 50px;
+    width: 170px;
+    margin-right: 0px;
+    color: grey;
+}
+
+
+.uls{
+    text-decoration: none;
+    /* text-decoration-line: line-through; */
+}
+
+#butonx{
+    margin-right: 10px;
+}
+
+.uls {
+    background-color: lightgrey;
+}
+
+.uls > ul > a{
+    list-style: none;
+    color: black;
+    text-decoration-line: none;
+}
+
+li{
+    font-size: 25px;
+}
