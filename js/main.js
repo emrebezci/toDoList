@@ -6,6 +6,8 @@ function yeniEleman(){
     document.getElementById("list").innerHTML += li;
     document.getElementById("inputumuz").value = ""; // clear the value
     document.getElementById("list").style.listStyleType = "none";
+
+    
 }
 
 
