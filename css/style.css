@@ -18,7 +18,8 @@
 #inputumuz {
     width: 850px;
     height: 50px;
-    
+    margin-bottom: 30px;
+
 }
 
 #butonumuz{
@@ -47,4 +48,13 @@
 
 li{
     font-size: 25px;
+}
+
+.close {
+    margin-right: 10px;
+}
+
+
+body {
+user-select: none;
 }
